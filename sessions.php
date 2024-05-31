@@ -12,7 +12,7 @@ $_SESSION["myname"] = "Gnaneswar";
 $_SESSION["usermail"] = "Gnaneswar@gmail.com";
 
 
-echo "Session variables are set.";
+echo "Session are set to my file.";
 
 
 ?>
