@@ -14,7 +14,6 @@ $_SESSION["usermail"] = "Gnaneswar@gmail.com";
 
 echo "Session variables are set.";
 
-echo "sessions are set";
 
 ?>
 
